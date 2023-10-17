@@ -1,0 +1,6 @@
+The code contains a multiple linear regression model which can predict the price of the house based on 
+the size of basement, size of living area, garage space, garage cars, half bath, full bath.
+
+If you want to predict the rate of the house, you have to give all inputs size of basement, size of living area, garage space, garage cars, half bath, full bath.
+
+In the program you will find the corelation between all the features with sale price. Some will work as positive and some will work as negative.
